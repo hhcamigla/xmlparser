@@ -7,8 +7,7 @@
 //
 
 typedef void (^CompletionBlock)(NSDictionary *dict);
-#define kDropBoxUserUrl                     @"http://makati.cambria.com/share/test.xml"
-//#define kDropBoxUserUrl                     @"https://dl.dropboxusercontent.com/u/101222705/business.xml"
+#define kDropBoxUserUrl                     @"https://dl.dropboxusercontent.com/u/101222705/business.xml"
 #define kRequestStatus                      @"requestStatus"
 #define kRequestData                        @"requestData"
 #define kRequestStatusOK                    @"requestStatusOK"
